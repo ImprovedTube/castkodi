@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.4.2](https://github.com/regseb/castkodi/compare/v7.4.1...v7.4.2) (2023-11-27)
+
+
+### Bug Fixes
+
+* Remplacer les "&nbsp;" par des espaces insécables ([#114](https://github.com/regseb/castkodi/issues/114)) ([79c13f2](https://github.com/regseb/castkodi/commit/79c13f2c3c71c611b6c43cffdacf6fdc7bd07e32))
+* Translations update from Hosted Weblate ([#105](https://github.com/regseb/castkodi/issues/105)) ([ae07c9e](https://github.com/regseb/castkodi/commit/ae07c9ee6c7942000c4da278af7a462cad22275d))
+
 ## [7.4.1](https://github.com/regseb/castkodi/compare/v7.4.0...v7.4.1) (2023-09-05)
 
 
